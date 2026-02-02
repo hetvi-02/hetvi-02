@@ -62,7 +62,7 @@
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 ### 📘 VLSI Focus
 - Verilog RTL Design (In-depth)  
 - CMOS & Semiconductor Basics  
